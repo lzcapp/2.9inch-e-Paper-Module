@@ -1,0 +1,2 @@
+1.源码缺少注释，见谅
+2.在我的电脑上Time.h库和HTTP client库有冲突，所以我将Time.h改成了_Time.h(需要在arduino的library文件夹里重命名Time.h和它对应的cpp文件）否则编译应该会出错
